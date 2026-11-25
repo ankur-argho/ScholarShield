@@ -1,0 +1,138 @@
+[
+  {
+    "id": "scam-1",
+    "title": "Global Academic Excellence Grant - Guaranteed $15,000",
+    "domain": "academic-grant-portal.xyz",
+    "url": "https://academic-grant-portal.xyz/apply-now",
+    "targetOrg": "International Youth Funding Board",
+    "description": "Congratulations! You have been pre-selected for the 2025 Global Academic Excellence Grant worth $15,000. 100% guaranteed approval for all international applicants! No essay, no GPA requirement, and no references needed. All eligible students will receive their fund disbursement within 48 hours. To finalize your application dossier and secure your grant spot, a one-time non-refundable document processing fee of $75 must be submitted via Western Union or direct wire transfer. Act now! Only 5 spots remaining for your region. Deadline expires at midnight tonight!",
+    "expectedFlags": ["APPLICATION_FEE", "WESTERN_UNION", "ARTIFICIAL_URGENCY", "SUSPICIOUS_TLD", "UNREALISTIC_GUARANTEE"]
+  },
+  {
+    "id": "scam-2",
+    "title": "Fulbright Fast-Track Visa & Fellowship Portal",
+    "domain": "fulbright-grants.xyz",
+    "url": "https://fulbright-grants.xyz/visa-fast-track",
+    "targetOrg": "Fulbright Foreign Student Program",
+    "description": "The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States. Special expedited fast-track entry is now open for immediate enrollment. Contact our regional processing officer directly on WhatsApp at +234-802-991-8822 to verify your qualification certificate and pay the $150 priority clearance charge. Guaranteed visa and full tuition coverage upon payment verification.",
+    "expectedFlags": ["TYPOSQUATTING", "BRAND_HIJACKING", "WHATSAPP_PAYMENT", "COPIED_CONTENT", "SUSPICIOUS_TLD"]
+  },
+  {
+    "id": "scam-3",
+    "title": "United Nations Global Student Mobility Fund",
+    "domain": "un-studentmobility.top",
+    "url": "https://un-studentmobility.top/deposit",
+    "targetOrg": "UN International Education Desk",
+    "description": "The United Nations Education Desk announces the 2025 Student Mobility Fund. Selected awardees receive €20,000 annual maintenance plus flights. Under strict UN compliance bylaws, awardees must deposit a refundable security guarantee of €350 to ensure attendance. The deposit will be refunded in cash upon arrival at your host institution. Payment must be processed immediately using Bitcoin or USDT to our official UN treasury wallet: 0x71C...49A. Email your transaction hash to un.scholarship.help@gmail.com.",
+    "expectedFlags": ["REFUNDABLE_DEPOSIT", "CRYPTO_PAYMENT", "FREE_EMAIL_CONTACT", "FAKE_ORGANIZATION", "SUSPICIOUS_TLD"]
+  },
+  {
+    "id": "scam-4",
+    "title": "Chevening Direct UK Masters Grant Scheme",
+    "domain": "chevening-scholarship-direct.com",
+    "url": "https://chevening-scholarship-direct.com/registration",
+    "targetOrg": "Chevening Scholarships UK",
+    "description": "Chevening is the UK Government's global scholarship programme, funded by the Foreign, Commonwealth and Development Office and partner organisations. It offers fully-funded master's degrees for individuals with demonstrable leadership potential. You can bypass the standard interview round by purchasing the Official Verification PIN for £120. Send £120 via MoneyGram to our regional agent in London or pay using Apple Gift Cards. Immediate enrollment confirmed within 24 hours.",
+    "expectedFlags": ["COPIED_CONTENT", "GIFT_CARD_PAYMENT", "MONEYGRAM", "BRAND_HIJACKING", "FEE_DEMAND"]
+  },
+  {
+    "id": "scam-5",
+    "title": "National Student Relief Trust - Instant $10,000 Disbursement",
+    "domain": "student-relief-trust.click",
+    "url": "https://student-relief-trust.click/claim",
+    "targetOrg": "National Student Relief Trust",
+    "description": "URGENT NOTICE: Unclaimed student educational benefits totaling $10,000 are waiting in your name! Everyone wins—no student turned down. To disburse your funds directly into your account, please verify your identity by entering your full Social Security Number (SSN), passport number, mother's maiden name, and internet banking login credentials. A small processing fee of $35 is charged via CashApp to $StudentTrustUSA.",
+    "expectedFlags": ["SENSITIVE_PII_DEMAND", "BANKING_CREDENTIALS", "CASHAPP_PAYMENT", "EXCESSIVE_URGENCY", "SUSPICIOUS_TLD"]
+  },
+  {
+    "id": "scam-6",
+    "title": "Erasmus Mundus Special Disbursal Council",
+    "domain": "erasmus-mundus-eu.org.co",
+    "url": "https://erasmus-mundus-eu.org.co/apply",
+    "targetOrg": "European Disbursal Commission",
+    "description": "Erasmus Mundus Joint Masters are high-level integrated study programmes designed and delivered by an international partnership of higher education institutions. To finalize acceptance into the European cohort, all international candidates must purchase the mandatory European Medical Insurance Certificate for €195 via Telegram concierge @ErasmusAdminSupport. Official certificates will be delivered as PDF upon transaction completion.",
+    "expectedFlags": ["COPIED_CONTENT", "TELEGRAM_PAYMENT", "LOOKALIKE_DOMAIN", "MANDATORY_FEE"]
+  },
+  {
+    "id": "scam-7",
+    "title": "Commonwealth Leadership Fellowship 2025",
+    "domain": "commonwealth-fellows.biz",
+    "url": "https://commonwealth-fellows.biz/fellowship",
+    "targetOrg": "Commonwealth Fellowship Directorate",
+    "description": "Apply for the 2025 Commonwealth Leadership Fellowship. 100% full funding for all undergraduate and postgraduate degrees. No application deadlines—apply anytime! Contact director Dr. John Smith on WhatsApp +44-7911-123456 or email commonwealthdesk2025@yahoo.com. Registration fee of $50 required via Western Union or Google Play gift card before interview date.",
+    "expectedFlags": ["FREE_EMAIL_CONTACT", "GIFT_CARD_PAYMENT", "WESTERN_UNION", "WHATSAPP_CONTACT", "BRAND_HIJACKING"]
+  },
+  {
+    "id": "scam-8",
+    "title": "MEXT Japan Accelerated Scholar Entry",
+    "domain": "mext-japan-portal.icu",
+    "url": "https://mext-japan-portal.icu/admission",
+    "targetOrg": "MEXT Overseas Education Bureau",
+    "description": "The Japanese Ministry of Education offers scholarships to international students wishing to study at Japanese universities. Due to unfilled quota, direct entrance is offered without Japanese Embassy screenings. Pay 15,000 JPY application review fee via direct bank transfer to our private trustee in Tokyo. Warning: Offer strictly valid for next 6 hours only!",
+    "expectedFlags": ["BANK_TRANSFER_FEE", "ARTIFICIAL_URGENCY", "COPIED_CONTENT", "SUSPICIOUS_TLD", "BRAND_HIJACKING"]
+  },
+  {
+    "id": "scam-9",
+    "title": "World Bank Educational Aid Program",
+    "domain": "worldbank-studentaid.loan",
+    "url": "https://worldbank-studentaid.loan/grant",
+    "targetOrg": "World Bank Student Trust",
+    "description": "The World Bank Student Trust has authorized emergency education grants of $20,000 per student. No repayment needed. Guaranteed grant for 1,000 applicants who register today. To release international wire, send a $120 anti-terrorist clearance certificate fee via USDT cryptocurrency to wallet TE6V3X...9K. Once paid, the funds will be wired to your account within 12 hours.",
+    "expectedFlags": ["CRYPTO_PAYMENT", "BOGUS_CLEARANCE_FEE", "SUSPICIOUS_TLD", "UNREALISTIC_GUARANTEE"]
+  },
+  {
+    "id": "scam-10",
+    "title": "Gates Cambridge Special Quota Access",
+    "domain": "gatescambridge-portal.club",
+    "url": "https://gatescambridge-portal.club/scholarship",
+    "targetOrg": "Gates Cambridge Direct Committee",
+    "description": "Special direct quota for international scholars for Cambridge University. All fees fully paid plus £25,000 annual stipend. Candidates must submit their biometric passport scan, national identity number, and bank account debit card details for direct direct-deposit synchronization. Processing charge £85 payable through Zelle to admin@gatescambridge-portal.club.",
+    "expectedFlags": ["SENSITIVE_PII_DEMAND", "ZELLE_PAYMENT", "BRAND_HIJACKING", "APPLICATION_FEE"]
+  },
+  {
+    "id": "scam-11",
+    "title": "DAAD Germany Fast-Track Stipend Scheme",
+    "domain": "daad-germany-grants.info",
+    "url": "https://daad-germany-grants.info/apply",
+    "targetOrg": "DAAD International Student Placement",
+    "description": "The German Academic Exchange Service (DAAD) supports young professionals from developing countries to pursue postgraduate education at German universities. Fast-track admission without IELTS or TOEFL. Apply within 24 hours. A non-refundable processing fee of €60 is payable to our coordinator on WhatsApp: +49-1521-998877.",
+    "expectedFlags": ["WHATSAPP_PAYMENT", "COPIED_CONTENT", "APPLICATION_FEE", "URGENCY_DEADLINE"]
+  },
+  {
+    "id": "scam-12",
+    "title": "Rotary International Goodwill Scholarship",
+    "domain": "rotary-goodwill-awards.xyz",
+    "url": "https://rotary-goodwill-awards.xyz/register",
+    "targetOrg": "Rotary Global Philanthropy Initiative",
+    "description": "Rotary awards $30,000 goodwill scholarships for students worldwide. Selection is 100% guaranteed for the first 100 registered students. No exam, no interview. You must purchase a $50 Steam gift card or Amazon gift card and send the 16-digit voucher code to verify your human identity. Contact rotarytrusthelp@hotmail.com for voucher upload instructions.",
+    "expectedFlags": ["GIFT_CARD_PAYMENT", "FREE_EMAIL_CONTACT", "UNREALISTIC_GUARANTEE", "SUSPICIOUS_TLD"]
+  },
+  {
+    "id": "scam-13",
+    "title": "Swiss Federal Excellence Direct Allocation",
+    "domain": "swiss-scholarships-gov.site",
+    "url": "https://swiss-scholarships-gov.site/portal",
+    "targetOrg": "Swiss Federal Grant Board",
+    "description": "Direct allocation of Swiss Government Excellence Scholarships. Monthly stipend of CHF 2,500. All foreign nationals qualify immediately regardless of academic background. To obtain official Swiss student visa clearance, wire CHF 200 via Western Union to our consular agent in Geneva. Contact on Telegram @SwissVisaClearance.",
+    "expectedFlags": ["WESTERN_UNION", "TELEGRAM_PAYMENT", "LOOKALIKE_DOMAIN", "NO_ELIGIBILITY_CRITERIA"]
+  },
+  {
+    "id": "scam-14",
+    "title": "Australia Awards Direct Selection Programme",
+    "domain": "australia-awards-online.cc",
+    "url": "https://australia-awards-online.cc/apply",
+    "targetOrg": "Australia Awards Liaison",
+    "description": "Australia Awards are prestigious international scholarships offering the next generation of global leaders an opportunity to undertake full-time study in Australia. Claim your spot in 2025 by making an upfront visa clearance payment of AUD 250 via direct UPI or bank transfer. Contact our student coordinator at ausawards.help@gmail.com. Only 3 slots remaining for your country!",
+    "expectedFlags": ["COPIED_CONTENT", "FREE_EMAIL_CONTACT", "BANK_TRANSFER_FEE", "ARTIFICIAL_URGENCY", "BRAND_HIJACKING"]
+  },
+  {
+    "id": "scam-15",
+    "title": "Global Tech Pioneer Minority Scholarship",
+    "domain": "techpioneer-grants.click",
+    "url": "https://techpioneer-grants.click/apply",
+    "targetOrg": "Global Tech Pioneer Trust",
+    "description": "Win $25,000 for your computer science or engineering degree! Everyone who applies today gets approved. No essay, no GPA cutoff! Complete your registration by paying a $40 dossier handling charge via Venmo or CashApp. Send payment screenshot to info@techpioneer-grants.click to receive your scholarship certificate and check within 72 hours.",
+    "expectedFlags": ["CASHAPP_PAYMENT", "APPLICATION_FEE", "UNREALISTIC_GUARANTEE", "SUSPICIOUS_TLD"]
+  }
+]
+

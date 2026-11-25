@@ -1,0 +1,278 @@
+[
+  {
+    "id": "legit-1",
+    "name": "Fulbright Foreign Student Program",
+    "slug": "fulbright-program",
+    "officialDomain": "fulbrightprogram.org",
+    "organization": "U.S. Department of State",
+    "country": "United States",
+    "coverage": "Full tuition, monthly living stipend, health insurance, and round-trip airfare.",
+    "officialUrl": "https://foreign.fulbrightonline.org",
+    "description": "The Fulbright Foreign Student Program enables graduate students, young professionals and artists from abroad to study and conduct research in the United States. Operating in more than 160 countries worldwide, approximately 4,000 foreign students receive Fulbright scholarships each year. Applications are managed through binational Fulbright Commissions/Foundations or U.S. Embassies. Official applications never require any processing fee or payment."
+  },
+  {
+    "id": "legit-2",
+    "name": "Chevening Scholarships",
+    "slug": "chevening-scholarships",
+    "officialDomain": "chevening.org",
+    "organization": "Foreign, Commonwealth & Development Office (FCDO)",
+    "country": "United Kingdom",
+    "coverage": "Full university tuition fees, monthly living allowance, return economy flights, and grant allowances.",
+    "officialUrl": "https://www.chevening.org",
+    "description": "Chevening is the UK Government's global scholarship programme, funded by the Foreign, Commonwealth and Development Office and partner organisations. It offers fully-funded master's degrees for individuals with demonstrable leadership potential. Selected scholars receive direct funding for 1-year master's degrees at any UK university. The application process is free and exclusively submitted online via chevening.org."
+  },
+  {
+    "id": "legit-3",
+    "name": "DAAD Development-Related Postgraduate Courses (EPOS)",
+    "slug": "daad-epos",
+    "officialDomain": "daad.de",
+    "organization": "German Academic Exchange Service (DAAD)",
+    "country": "Germany",
+    "coverage": "Monthly stipend of €934 to €1,300, health and accident insurance, travel allowance, and study subsidies.",
+    "officialUrl": "https://www.daad.de/en/",
+    "description": "The German Academic Exchange Service (DAAD) supports young professionals from developing countries to pursue postgraduate education at German universities. Over 100,000 German and international students and researchers receive DAAD funding every year. Applications are processed through the official DAAD portal or directly by participating universities without any registration fees."
+  },
+  {
+    "id": "legit-4",
+    "name": "MEXT Japanese Government Scholarship",
+    "slug": "mext-japan",
+    "officialDomain": "mext.go.jp",
+    "organization": "Ministry of Education, Culture, Sports, Science and Technology (Japan)",
+    "country": "Japan",
+    "coverage": "Full university tuition, monthly allowance (143,000 to 145,000 JPY), and round-trip transportation.",
+    "officialUrl": "https://www.mext.go.jp/en/",
+    "description": "The Japanese Ministry of Education offers scholarships to international students wishing to study at Japanese universities as undergraduate or research students. Selection is conducted primarily through Japanese Embassies and Consulates or through university recommendations. MEXT never asks for money, registration charges, or wire transfers."
+  },
+  {
+    "id": "legit-5",
+    "name": "Erasmus Mundus Joint Master Degrees (EMJMD)",
+    "slug": "erasmus-mundus",
+    "officialDomain": "europa.eu",
+    "organization": "European Commission / EACEA",
+    "country": "European Union",
+    "coverage": "Full participation costs, library and laboratory charges, full insurance, travel allowance, and monthly subsistence allowance of €1,400.",
+    "officialUrl": "https://erasmus-plus.ec.europa.eu",
+    "description": "Erasmus Mundus Joint Masters are high-level integrated study programmes designed and delivered by an international partnership of higher education institutions. The EU-funded scholarships cover participation costs, travel, and a living allowance for the entire study duration across at least two European countries. Applications are handled directly through consortia on official institutional domains."
+  },
+  {
+    "id": "legit-6",
+    "name": "Gates Cambridge Scholarship",
+    "slug": "gates-cambridge",
+    "officialDomain": "gatescambridge.org",
+    "organization": "Bill and Melinda Gates Foundation / University of Cambridge",
+    "country": "United Kingdom",
+    "coverage": "University Composition Fee, maintenance allowance (£20,000/year), airfare, visa costs, and academic development funding.",
+    "officialUrl": "https://www.gatescambridge.org",
+    "description": "Established in October 2000 by a donation of US$210m from the Bill and Melinda Gates Foundation to the University of Cambridge, the programme offers 80 full-cost scholarships each year to outstanding applicants from countries outside the UK to pursue a full-time postgraduate degree in any subject."
+  },
+  {
+    "id": "legit-7",
+    "name": "Rhodes Scholarship",
+    "slug": "rhodes-scholarship",
+    "officialDomain": "rhodeshouse.ox.ac.uk",
+    "organization": "The Rhodes Trust / University of Oxford",
+    "country": "United Kingdom",
+    "coverage": "Oxford University tuition, annual stipend (£19,092), student visa, international health surcharge, and two flights.",
+    "officialUrl": "https://www.rhodeshouse.ox.ac.uk",
+    "description": "The Rhodes Scholarship is the oldest and perhaps the most prestigious international scholarship programme in the world, bringing outstanding young people from around the world to study at the University of Oxford. Scholars are selected on criteria of academic excellence, energy, truth, devotion to duty, and leadership."
+  },
+  {
+    "id": "legit-8",
+    "name": "Australia Awards Scholarships",
+    "slug": "australia-awards",
+    "officialDomain": "dfat.gov.au",
+    "organization": "Department of Foreign Affairs and Trade (DFAT)",
+    "country": "Australia",
+    "coverage": "Full tuition, return air travel, establishment allowance, contribution to living expenses (CLE), and Overseas Student Health Cover (OSHC).",
+    "officialUrl": "https://www.dfat.gov.au/people-to-people/australia-awards",
+    "description": "Australia Awards are prestigious international scholarships offering the next generation of global leaders an opportunity to undertake full-time undergraduate or postgraduate study at participating Australian universities and Technical and Further Education (TAFE) institutions."
+  },
+  {
+    "id": "legit-9",
+    "name": "Commonwealth Scholarships",
+    "slug": "commonwealth-scholarships",
+    "officialDomain": "cscuk.fcdo.gov.uk",
+    "organization": "Commonwealth Scholarship Commission in the UK",
+    "country": "United Kingdom",
+    "coverage": "Approved airfare, approved tuition and examination fees, personal maintenance allowance, and warm clothing allowance.",
+    "officialUrl": "https://cscuk.fcdo.gov.uk",
+    "description": "Commonwealth Scholarships in the UK are funded by the Foreign, Commonwealth & Development Office (FCDO) for talented individuals with the potential to make a sustainable development impact in their home countries. No fees are ever charged at any stage of application."
+  },
+  {
+    "id": "legit-10",
+    "name": "Eiffel Excellence Scholarship Program",
+    "slug": "eiffel-excellence",
+    "officialDomain": "campusfrance.org",
+    "organization": "French Ministry for Europe and Foreign Affairs / Campus France",
+    "country": "France",
+    "coverage": "Monthly allowance of €1,181 for Master's or €1,700 for PhD, return ticket, health insurance, and cultural activities.",
+    "officialUrl": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence",
+    "description": "The Eiffel Excellence Scholarship Program was established by the French Ministry for Europe and Foreign Affairs to enable French higher education institutions to attract top foreign students for master's and PhD degree programs. Applications are submitted exclusively by French higher education institutions."
+  },
+  {
+    "id": "legit-11",
+    "name": "Swedish Institute Scholarships for Global Professionals (SISGP)",
+    "slug": "swedish-institute",
+    "officialDomain": "si.se",
+    "organization": "Swedish Institute (Ministry for Foreign Affairs)",
+    "country": "Sweden",
+    "coverage": "Full tuition fees, monthly living grant of SEK 12,000, travel grant of SEK 15,000, and insurance membership.",
+    "officialUrl": "https://si.se/en/apply/scholarships/swedish-institute-scholarships-for-global-professionals/",
+    "description": "The Swedish Institute provides fully funded master's scholarships to international leaders for studies in Sweden. The programme aims to develop global leaders who contribute to the United Nations 2030 Agenda for Sustainable Development."
+  },
+  {
+    "id": "legit-12",
+    "name": "Swiss Government Excellence Scholarships",
+    "slug": "swiss-excellence",
+    "officialDomain": "sbfi.admin.ch",
+    "organization": "Federal Commission for Scholarships for Foreign Students (FCS)",
+    "country": "Switzerland",
+    "coverage": "Monthly stipend of CHF 1,920, health insurance, airfare refund, and housing allowance.",
+    "officialUrl": "https://www.sbfi.admin.ch/scholarships_eng",
+    "description": "Each year the Swiss Confederation awards Government Excellence Scholarships to promote international exchange and research cooperation between Switzerland and over 180 other countries for postgraduate researchers and PhD candidates."
+  },
+  {
+    "id": "legit-13",
+    "name": "Schwarzman Scholars",
+    "slug": "schwarzman-scholars",
+    "officialDomain": "schwarzmanscholars.org",
+    "organization": "Schwarzman Education Foundation / Tsinghua University",
+    "country": "China",
+    "coverage": "Tuition, room and board, travel to and from Beijing, in-country study tour, required course books, and a $4,000 stipend.",
+    "officialUrl": "https://www.schwarzmanscholars.org",
+    "description": "Schwarzman Scholars is an elite, fully funded one-year master's program at Tsinghua University in Beijing designed to prepare the next generation of global leaders. All expenses are fully funded and admission does not require any fee."
+  },
+  {
+    "id": "legit-14",
+    "name": "Global Korea Scholarship (GKS)",
+    "slug": "global-korea-scholarship",
+    "officialDomain": "studyinkorea.go.kr",
+    "organization": "National Institute for International Education (NIIED)",
+    "country": "South Korea",
+    "coverage": "Airfare, settlement allowance, monthly stipend of 1,000,000 KRW, medical insurance, and full tuition fees.",
+    "officialUrl": "https://www.studyinkorea.go.kr",
+    "description": "The Global Korea Scholarship is designed to provide international students with opportunities to conduct advanced studies in undergraduate and graduate programs at higher educational institutions in the Republic of Korea."
+  },
+  {
+    "id": "legit-15",
+    "name": "Turkiye Burslari Scholarships",
+    "slug": "turkiye-burslari",
+    "officialDomain": "turkiyeburslari.gov.tr",
+    "organization": "Presidency for Turks Abroad and Related Communities (YTB)",
+    "country": "Turkey",
+    "coverage": "University and program placement, monthly stipend, full tuition fee, 1-year Turkish language course, health insurance, and flight tickets.",
+    "officialUrl": "https://www.turkiyeburslari.gov.tr",
+    "description": "Turkiye Scholarships is a government-funded, competitive scholarship program, awarded to outstanding students to pursue full-time or short-term programs at top universities in Turkey. The application is completely free through the official portal."
+  },
+  {
+    "id": "legit-16",
+    "name": "Singapore International Graduate Award (SINGA)",
+    "slug": "singa-singapore",
+    "officialDomain": "a-star.edu.sg",
+    "organization": "Agency for Science, Technology and Research (A*STAR)",
+    "country": "Singapore",
+    "coverage": "Full tuition fees, monthly stipend of S$2,700 to S$3,200, one-time airfare grant, and one-time settling-in allowance.",
+    "officialUrl": "https://www.a-star.edu.sg/Scholarships/for-graduate-studies/singapore-international-graduate-award-singa",
+    "description": "The Singapore International Graduate Award (SINGA) is a collaboration between A*STAR, NTU, NUS, SUTD and SMU. PhD training is carried out in English at laboratories in Singapore with world-renowned researchers."
+  },
+  {
+    "id": "legit-17",
+    "name": "Manaaki New Zealand Scholarships",
+    "slug": "manaaki-new-zealand",
+    "officialDomain": "nzscholarships.govt.nz",
+    "organization": "Ministry of Foreign Affairs and Trade (MFAT)",
+    "country": "New Zealand",
+    "coverage": "Full tuition fees, living allowance (NZ$531/week), establishment allowance, medical insurance, and return airfare.",
+    "officialUrl": "https://www.nzscholarships.govt.nz",
+    "description": "Manaaki New Zealand Scholarships represent the New Zealand Government's commitment to supporting sustainable development in partner countries by providing high-quality higher education opportunities."
+  },
+  {
+    "id": "legit-18",
+    "name": "Inlaks Shivdasani Foundation Scholarships",
+    "slug": "inlaks-foundation",
+    "officialDomain": "inlaksfoundation.org",
+    "organization": "Inlaks Shivdasani Foundation",
+    "country": "United States / Europe / UK",
+    "coverage": "Up to $100,000 covering tuition fees, living expenses, healthcare, and one-way travel.",
+    "officialUrl": "https://www.inlaksfoundation.org",
+    "description": "The Inlaks Shivdasani Foundation provides scholarships to exceptional young Indians to pursue higher education at top American, European, and UK institutions."
+  },
+  {
+    "id": "legit-19",
+    "name": "Aga Khan Foundation International Scholarship Programme",
+    "slug": "aga-khan-foundation",
+    "officialDomain": "akdn.org",
+    "organization": "Aga Khan Development Network",
+    "country": "International",
+    "coverage": "50% grant and 50% loan covering full tuition and living expenses for postgraduate studies.",
+    "officialUrl": "https://www.akdn.org/our-agencies/aga-khan-foundation/international-scholarship-programme",
+    "description": "The Aga Khan Foundation provides a limited number of scholarships each year for postgraduate studies to outstanding students from select developing countries who have no other means of financing their education."
+  },
+  {
+    "id": "legit-20",
+    "name": "Rotary Peace Fellowships",
+    "slug": "rotary-peace-fellowship",
+    "officialDomain": "rotary.org",
+    "organization": "The Rotary Foundation",
+    "country": "International",
+    "coverage": "Tuition and fees, room and board, round-trip transportation, and all internship and field-study expenses.",
+    "officialUrl": "https://www.rotary.org/en/our-programs/peace-fellowships",
+    "description": "Each year, Rotary awards up to 130 fully funded fellowships for dedicated leaders from around the world to study peace and development at leading university partner peace centers."
+  },
+  {
+    "id": "legit-21",
+    "name": "GREAT Scholarships",
+    "slug": "great-scholarships-uk",
+    "officialDomain": "britishcouncil.org",
+    "organization": "British Council and UK Government GREAT Campaign",
+    "country": "United Kingdom",
+    "coverage": "Minimum £10,000 towards tuition fees for one-year taught postgraduate courses in the UK.",
+    "officialUrl": "https://www.britishcouncil.org/study-work-abroad/in-uk/great-scholarships",
+    "description": "GREAT Scholarships offer students from 15 countries the opportunity to have £10,000 towards their tuition fees for a wide range of one-year taught postgraduate courses in the UK."
+  },
+  {
+    "id": "legit-22",
+    "name": "Knight-Hennessy Scholars Program",
+    "slug": "knight-hennessy-stanford",
+    "officialDomain": "stanford.edu",
+    "organization": "Stanford University",
+    "country": "United States",
+    "coverage": "Full tuition, stipend for living and academic expenses, and an economy class round-trip flight to Stanford.",
+    "officialUrl": "https://knight-hennessy.stanford.edu",
+    "description": "The Knight-Hennessy Scholars program develops a community of future global leaders to address complex challenges through collaboration and innovation across graduate programs at Stanford University."
+  },
+  {
+    "id": "legit-23",
+    "name": "Stipendium Hungaricum Scholarship",
+    "slug": "stipendium-hungaricum",
+    "officialDomain": "stipendiumhungaricum.hu",
+    "organization": "Tempus Public Foundation / Hungarian Ministry of Foreign Affairs",
+    "country": "Hungary",
+    "coverage": "Exemption from tuition fees, monthly stipend of HUF 43,700 to HUF 180,000, free dormitory place, and health insurance.",
+    "officialUrl": "https://stipendiumhungaricum.hu",
+    "description": "Stipendium Hungaricum is the Hungarian government's most prestigious higher education scholarship program for international students based on bilateral educational agreements."
+  },
+  {
+    "id": "legit-24",
+    "name": "VLIR-UOS Scholarships",
+    "slug": "vlir-uos-belgium",
+    "officialDomain": "vliruos.be",
+    "organization": "Flemish Interuniversity Council (VLIR-UOS)",
+    "country": "Belgium",
+    "coverage": "Full allowance including tuition, accommodation, insurance, travel costs, and monthly allowance.",
+    "officialUrl": "https://www.vliruos.be",
+    "description": "VLIR-UOS awards scholarships to students and professionals from developing countries to participate in selected English-taught training and master programmes in Flanders, Belgium."
+  },
+  {
+    "id": "legit-25",
+    "name": "CSC Chinese Government Scholarship",
+    "slug": "csc-chinese-government",
+    "officialDomain": "campuschina.org",
+    "organization": "China Scholarship Council",
+    "country": "China",
+    "coverage": "Full tuition waiver, free university dormitory, comprehensive medical insurance, and monthly stipend (2,500 to 3,500 RMB).",
+    "officialUrl": "https://www.campuschina.org",
+    "description": "The Chinese Government Scholarship program is established by the Ministry of Education of PRC to support Chinese universities to recruit outstanding international students for graduate studies."
+  }
+]
+

@@ -1,0 +1,52 @@
+[
+  {
+    "test": "Homepage Desktop Render",
+    "status": "PASS",
+    "details": "Title: ScholarShield — Scholarship Scam Detection and Verification Portal, Heading: Verify Scholarships. Detect Scams. Protect Your Future."
+  },
+  {
+    "test": "Homepage Mobile Responsive (375x812)",
+    "status": "PASS",
+    "details": "Rendered cleanly without horizontal breakages"
+  },
+  {
+    "test": "Empty Submission Validation",
+    "status": "PASS",
+    "details": "Unable to analyze\n\nPlease enter either a scholarship website URL or paste its description to begin analysis."
+  },
+  {
+    "test": "Quick Demo Preset Population",
+    "status": "PASS",
+    "details": "Input URL populated: https://academic-grant-portal.xyz/apply-now"
+  },
+  {
+    "test": "Dynamic Scam Report Generation (/report/[id])",
+    "status": "FAIL",
+    "details": "URL: http://localhost:3005/, Score: undefined, Heading: Verify Scholarships. Detect Scams. Protect Your Future."
+  },
+  {
+    "test": "Report Findings Categorization Tabs & Accordion",
+    "status": "PASS",
+    "details": "Suspicious, Trust, and Inconclusive tabs and expandable analyzer breakdown verified"
+  },
+  {
+    "test": "Dashboard Analytics & Searchable Table",
+    "status": "PASS",
+    "details": "Total scans displayed: 48, search filter and charts verified"
+  },
+  {
+    "test": "Learn Page & FAQ Accordion Interaction",
+    "status": "PASS",
+    "details": "Heading: How to Spot Scholarship Scams, accordion expansion verified"
+  },
+  {
+    "test": "Community Report Form Submission",
+    "status": "PASS",
+    "details": "Submitted test domain: test-fake-grant-7732.xyz, auto-blacklisting verified"
+  },
+  {
+    "test": "Legitimate Portal Verification (Fulbright)",
+    "status": "FAIL",
+    "details": "Score: 0/100, Classification: undefined"
+  }
+]

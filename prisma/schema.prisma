@@ -1,0 +1,108 @@
+// ScholarShield Prisma Schema
+// Database: SQLite (runs locally with zero setup)
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Stores results of each analyzed scholarship
+model ScanReport {
+  id              String   @id @default(cuid())
+  url             String?
+  domain          String?
+  title           String?
+  targetOrg       String?
+  rawText         String   // Text inspected
+  riskScore       Int      // 0 - 100
+  verdict         String   // SAFE | SUSPICIOUS | HIGH_RISK
+  confidence      String   // LOW | MEDIUM | HIGH
+  summary         String   // Human-readable summary
+  topReasons      String   // JSON string array of primary red flags
+  analyzerResults String   // JSON serialized breakdown per analyzer
+  flags           String   // JSON serialized array of all detected flags with severity
+  metadata        String?  // JSON: emails found, forms found, SSL status, domain age
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@index([domain])
+  @@index([riskScore])
+  @@index([createdAt])
+}
+
+// Stores community reported suspicious scholarship links
+model CommunityReport {
+  id             String   @id @default(cuid())
+  url            String
+  domain         String
+  orgName        String?
+  scamType       String   // APPLICATION_FEE | IDENTITY_THEFT | FAKE_ORG | IMPERSONATION | OTHER
+  description    String
+  evidenceNotes  String?
+  reporterEmail  String?
+  status         String   @default("PENDING_REVIEW") // PENDING_REVIEW | VERIFIED | REJECTED
+  createdAt      DateTime @default(now())
+
+  @@index([domain])
+  @@index([status])
+}
+
+// Known malicious or lookalike domains blacklist
+model KnownBadDomain {
+  id             String   @id @default(cuid())
+  domain         String   @unique
+  reason         String
+  source         String   // SEED | COMMUNITY_REPORT | ANALYZER
+  reportedCount  Int      @default(1)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+}
+
+// 25+ verified legitimate world-renowned scholarships registry
+model LegitScholarship {
+  id             String   @id @default(cuid())
+  name           String
+  slug           String   @unique
+  officialDomain String
+  organization   String
+  country        String
+  coverage       String   // e.g. "Full tuition, monthly stipend, airfare"
+  officialUrl    String
+  description    String
+  verified       Boolean  @default(true)
+  createdAt      DateTime @default(now())
+
+  @@index([officialDomain])
+  @@index([slug])
+}
+
+// User accounts for security officers, students, and auditors
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  name         String?
+  passwordHash String
+  role         String    @default("USER") // USER | ADMIN | AUDITOR
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+  sessions     Session[]
+
+  @@index([email])
+}
+
+// User active session tokens
+model Session {
+  id        String   @id @default(cuid())
+  token     String   @unique
+  userId    String
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+
+  @@index([token])
+  @@index([userId])
+}
